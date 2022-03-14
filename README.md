@@ -1,6 +1,6 @@
-# The-GitHub-History-of-the-Scala-Language
+# The GitHub History of the Scala Language
 
-## Reading in, cleaning up, and visualizing the real world project repository of Scala--one of the most promiminent programming languages for Data Scientists--that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
+### Reading in, cleaning up, and visualizing the real world project repository of Scala--one of the most promiminent programming languages for Data Scientists--that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
 
 - Combined data from two separate pull DataFrames.
 - Converted the strings with dates in ISO8601 format into Python's DateTime objects, so they can be compared and sorted; converted times in local time to to UTC
